@@ -1,0 +1,78 @@
+/* heading */
+.container-wrapper .product-heading h1{
+    font-size: 51px;
+    font-family: "opensans-semibold";
+    color: #FFFFFF;
+}
+.container-wrapper .product-heading {
+    padding: 70px 90px;
+    border: 1px solid #979797;
+    background-color: #3084FB;
+}
+.container-wrapper{
+    margin-top: 62px;
+}
+
+/* content */
+.tab-content .content-heading h1{
+    font-size: 44px;
+    color: #000000;
+    font-family: "opensans-semibold";
+    padding-bottom: 70px;
+}
+.content-heading{    
+    padding: 90px 90px 0px;
+}
+.tab-content .content-heading p{
+    font-size: 14px;
+    width: 64%;
+    line-height: 24px;
+    font-family: "opensans-regular";
+}
+.tab-products h2{
+	font-size: 24px;
+    font-family: "opensans-semibold";
+    padding-bottom: 40px;
+
+}
+.tab-products p{
+	font-size: 14px;
+    font-family: "opensans-regular";
+    padding-right: 100px;
+    line-height: 24px;
+}
+
+.tab-products a{
+	font-size: 14px;
+    font-family: "opensans-regular";
+    color: #3084FC;
+    text-decoration: none;
+}
+.tab-products{
+    padding: 50px 90px;
+}
+.text-content{
+    margin-top:30px;
+}
+
+.text-content1{
+    margin-top:30px;
+}
+/* tab container */
+.tab-container .nav-tabs a{
+    font-size: 16px;
+    line-height: 22px;
+    font-family: "opensans-regular";
+    color: #000000;
+}
+
+.tab-container .nav-tabs a.active{
+    font-family: "opensans-semibold";
+}
+
+.tab-container .nav-tabs li{
+    padding:15px 50px;
+}
+.nav-tabs{
+    padding-left: 20%;
+}

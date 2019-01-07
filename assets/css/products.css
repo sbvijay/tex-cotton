@@ -1,0 +1,148 @@
+/* heading */
+.container-wrapper{
+    margin-top: 62px;
+}
+
+/* content */
+.tab-content .content-heading h1{
+    font-size: 44px;
+    color: #000000;
+    font-family: "opensans-semibold";
+    padding-bottom: 70px;
+}
+.content-heading{    
+    padding-top: 90px;
+}
+.tab-content .content-heading p{
+    font-size: 14px;
+    width: 65%;
+    line-height: 24px;
+    font-family: "opensans-regular";
+}
+.tab-products h2{
+	font-size: 24px;
+    font-family: "opensans-semibold";
+    padding-bottom: 40px;
+
+}
+.tab-products p{
+	font-size: 14px;
+    font-family: "opensans-regular";
+    width: 82%;
+    line-height: 24px;
+}
+
+.tab-products a{
+	font-size: 14px;
+    font-family: "opensans-regular";
+    color: #3084FC;
+    text-decoration: none;
+}
+.tab-products{
+    padding: 50px 90px;
+}
+.tab-products1 h2{
+	font-size: 24px;
+    font-family: "opensans-semibold";
+    padding-bottom: 40px;
+
+}
+.tab-products1 p{
+	font-size: 14px;
+    font-family: "opensans-regular";
+    width: 82%;
+    line-height: 24px;
+}
+
+.tab-products1 a{
+	font-size: 14px;
+    font-family: "opensans-regular";
+    color: #3084FC;
+    text-decoration: none;
+}
+.tab-products1{
+    padding: 50px 90px;
+}
+.text-content{
+    margin-top:30px;
+}
+
+.text-content1{
+    margin-top:30px;
+}
+/* tab container */
+/*.tab-container .nav-tabs a{
+    font-size: 16px;
+    line-height: 22px;
+    font-family: "opensans-regular";
+    color: #000000;
+}
+
+.nav-tabs li.active a:hover{
+    font-family: "opensans-bold";
+    border:none;
+    border-bottom: 5px solid yellow;
+    color: #000000;
+    cursor: pointer;
+}
+.nav-tabs li a{
+    margin:0px;
+    border:none;
+}
+
+.tab-container .nav-tabs li{
+    padding:15px 50px;
+}
+.nav-tabs li.active a{
+    font-family: "opensans-semibold";
+    border:none;
+    border-bottom: 5px solid yellow;
+    color: #000000;
+}
+.tab-container .nav-tabs li{
+padding: 0px 108px;
+}
+.tab-container li a{
+    padding: 20px 0px;
+}*/
+.tab-container .nav-tabs li a{
+    font-family: "opensans-regular";
+    font-size: 16px;	
+    line-height: 22px;
+    color: #000000;
+    padding: 22px 0px;
+}
+.tab-container .nav-tabs li{
+padding:0px 54px;
+}
+
+.tab-container .nav li a:hover{
+    background-color: transparent;
+    border-color:transparent;
+}
+.tab-container .nav-tabs li a:focus{
+    color:transparent;
+    border:none;
+    border-color:transparent;
+}
+.tab-container .nav-tabs li.active a, .nav-tabs li.active a:focus, .nav-tabs li.active a:hover
+{
+    border:none;
+    color:#000000;
+}
+.tab-container .nav-tabs li.active a:hover{
+    font-family: "opensans-bold";
+    border:none;
+    color: #000000;
+    cursor: pointer;
+}
+.tab-container .nav-tabs li.active a:focus{
+    font-family: "opensans-bold";
+    border:none;
+    border-bottom: 5px solid yellow;
+    color: #000000;
+    cursor: pointer;
+}
+.tab-container .nav-tabs{
+    padding: 0px 255px;
+}

@@ -1,0 +1,24 @@
+
+.container-wrapper{
+    margin-top: 62px;
+}
+.about-content .content-heading h1{
+    font-size: 44px;    
+    font-family: "opensans-semibold";
+}
+.content-heading{
+    padding-bottom: 72px;
+}
+
+.about-content{
+    padding: 90px 90px;
+}
+.about-content .content-paragraph p{
+    font-size: 14px;
+    font-family: "opensans-regular";
+   
+}
+.content-paragraph{
+width: 68%;
+padding-bottom: 66px;
+}

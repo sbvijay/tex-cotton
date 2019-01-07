@@ -1,0 +1,65 @@
+.header-section
+{
+	padding: 0px 90px;
+	background-color: #fff;
+}
+.navbar-logo
+{
+    padding: 5px 0px;
+}
+.navbar-logo img
+{    
+    width: 200px;
+}
+.header-section .navbar-collapse ul li a{
+    color: #000000;	
+    font-family: "opensans-regular";	
+    font-size: 14px;	
+    line-height: 19px;
+}
+.header-section .navbar-collapse ul li.active a{
+    font-family: "opensans-bold";
+	color: #000;
+    background-color: transparent !important;  
+}
+
+.header-section .navbar-collapse ul li
+{
+    padding: 0px 15px;
+    margin-top:7px;
+}
+.header-section .navbar-collapse ul li a.btn-yellow
+{
+    padding: 10px 25px;
+    font-family: "opensans-bold";	
+    background-color: #FFE63B;
+    margin-top: 5px;
+}
+/* CONTENT*/
+.thank-content a{
+    text-decoration: none;	
+    font-size: 16px;		
+    line-height: 24px;
+    font-family: "opensans-semibold";
+    color: #FFFFFF;
+    padding: 10px 50px;	
+    border-radius: 4px;	
+    background-color: #4779ED;
+}
+.thank-content p{
+    font-size: 23px;	
+    line-height: 32px;
+    font-family: "opensans-regular";
+    padding-bottom: 50px;
+}
+.thank-content h1{
+    font-family: "opensans-semibold";	
+    font-size: 40px;		
+    line-height: 55px;
+    padding-bottom: 20px;
+}
+.thank-content{
+    padding: 180px 386px;
+    text-align: center;
+
+}
